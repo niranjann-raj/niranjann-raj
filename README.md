@@ -1,5 +1,13 @@
 <h2 data-importer="text" align="left">Hi 👋! My name is Niranjan Raj and I'm a CSE student.</h2>
 
+<div align="left">
+  🔭 Currently working on: Full-stack applications and FinTech projects<br>
+  🌱 Currently learning: DSA, backend development and AI<br>
+  👯 Looking to collaborate on: Open-source and real-world software projects<br>
+  💬 Ask me about: React, Python, Flask and PostgreSQL<br>
+  ⚡ Fun fact: I learn best by building things
+</div>
+
 ###
 
 <div data-importer="stats" align="center">
