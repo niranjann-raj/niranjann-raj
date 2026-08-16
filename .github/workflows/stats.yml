@@ -10,20 +10,19 @@ on:
     branches:
       - main
 
-permissions:
-  contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+
+    permissions:
+      contents: write
 
     steps:
       - name: Generate stats.svg
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
