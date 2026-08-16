@@ -78,6 +78,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/niranjann-raj/niranjann-raj/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/niranjann-raj/niranjann-raj/snake-output/snake.svg" alt="Snake animation"  width="800"/>
 
 ###
