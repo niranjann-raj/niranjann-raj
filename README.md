@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Niranjan Raj and I'm a CSE student.</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Niranjan Raj — a CSE student who loves building things with code.</h2>
 
 <div align="left">
   🔭 Currently working on: Full-stack applications and FinTech projects<br>
